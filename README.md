@@ -4,8 +4,14 @@
 이야기꺼리가 있고 읽어볼만한 소프트웨어 기술 문서를 함께 낭독하며 읽고 의견을
 나눠보는 [mm](https://mm.xyz) 모임을 위한 참고사항 문서입니다.
 
-어떻게 참여하나요?
-------------------
+언제 모임이 열리나요?
+---------------------
+
+다가오는 다음 모임은 2021-06-13 한국시간으로 오후 8시부터 10시까지 진행되며,
+리눅스 30주년 기념 리누스 토발즈 인터뷰의 한글
+[번역본](https://sjp38.github.io/ko/post/torvalds_interview_for_30th_anniversary_of_linux_kernel_part1)
+을 읽을 예정입니다.  [mm](https://mm.xyz) 앱을 깔고 아래 링크를 열어주세요:
+https://www.mm.xyz/event/8eb4d500-5bf2-4010-bb34-10dce8391c5b?fbclid=IwAR2khWmw-kZs_H-7uxrKqS6rZY5boU0DP-72bey-eHBPyyxRozwcSxoIA8A
 
 [일정](Schedule.md)을 참고해, 새로운 이야기를 놓치지마세요.
 
