@@ -7,16 +7,7 @@
 어떻게 참여하나요?
 ------------------
 
-첫번째 모임은 2021-06-13 한국시간으로 오후 8시부터 10시까지
-[mm](https://mm.xyz) 에서 진행됩니다:
-https://www.mm.xyz/event/8eb4d500-5bf2-4010-bb34-10dce8391c5b?fbclid=IwAR2khWmw-kZs_H-7uxrKqS6rZY5boU0DP-72bey-eHBPyyxRozwcSxoIA8A
-
-뭘 읽나요?
-----------
-
-첫번째 시간에 읽을 문서는 리눅스 30주년 기념 리누스 토발즈 인터뷰의 한글
-[번역본](https://sjp38.github.io/ko/post/torvalds_interview_for_30th_anniversary_of_linux_kernel_part1)
-입니다.
+[일정](Schedule.md)을 참고해, 새로운 이야기를 놓치지마세요.
 
 어떻게 진행되나요?
 ------------------
