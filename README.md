@@ -13,7 +13,8 @@
 을 읽을 예정입니다.  [mm](https://mm.xyz) 앱을 깔고 아래 링크를 열어주세요:
 https://www.mm.xyz/event/8eb4d500-5bf2-4010-bb34-10dce8391c5b?fbclid=IwAR2khWmw-kZs_H-7uxrKqS6rZY5boU0DP-72bey-eHBPyyxRozwcSxoIA8A
 
-[일정](Schedule.md)을 참고해, 새로운 이야기를 놓치지마세요.
+과거에는 어떤 문서를 읽었고 다음엔 어떤 문서를 읽을지는 [일정](Schedule.md) 에
+정리되어 있으니 참고해 주세요.
 
 어떻게 진행되나요?
 ------------------
@@ -45,5 +46,5 @@ https://www.mm.xyz/event/8eb4d500-5bf2-4010-bb34-10dce8391c5b?fbclid=IwAR2khWmw-
 다음 모임은 언제 열리나요?
 --------------------------
 
-테크 커뮤니티 카카오 [오픈채팅방](https://open.kakao.com/o/ghzKaXhd) 에서
-공유하겠습니다.
+테크 커뮤니티 카카오 [오픈채팅방](https://open.kakao.com/o/ghzKaXhd) 에서 함께
+이야기 하기로 해요.
